@@ -1,5 +1,5 @@
 # flask-cat-dog-voice-predictor
-This is project predicts the salary of the employee based on the experience.
+This is project predicts classifies the voice of dogs and cats.
 
 # App
 app.py contains all the requiered for flask and to manage APIs.
